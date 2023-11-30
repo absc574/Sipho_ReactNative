@@ -1,0 +1,5 @@
+export {default as Education} from "./education.png"
+//export {default as Sports} from "./sports.png"
+export {default as News} from "./news.jpg"
+// export {default as Logo} from "./matlala-icon.png"
+export {default as background} from "./background.gif"
